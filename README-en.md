@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Hello, I'm Bruno Silva!</h1>
+<h1>Hello, I'm Bruno Silva!</h1>
 <h3>💻 Still under construction</h3>
 
 Não fala inglês? Acesse a versão em português [here](https://github.com/ibrunosilva/ibrunosilva/blob/main/README.md).<br>
