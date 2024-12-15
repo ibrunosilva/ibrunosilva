@@ -17,7 +17,7 @@ Dashboard de status do Github
 <!--
 Tópico com o que estou estudando atualmente
 -->
-   <h1 align="center">Estudando</h1>
+   <h1 align="center">Studying</h1>
 <div style="display: inline_block": align=center><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,7 +28,7 @@ Tópico com o que estou estudando atualmente
 <!--
 Minhas Redes Sociais
 -->
- <h1 align="center">Redes Sociais e Contato</h1>
+ <h1 align="center">Social Networks and Contact</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/contatobrunosilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ibrunosilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
