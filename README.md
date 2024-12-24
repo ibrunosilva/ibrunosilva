@@ -7,8 +7,10 @@ Don't speak Portuguese? Access the English version [here](https://github.com/ibr
 Dashboard de status do Github
 -->
 
+<!--
 <div align="center">
 <h1 align="center">⚙Git Stats</h1>
+-->
 
  <div align="center">
     <a href="https://github.com/ibrunosilva"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=ibrunosilva&hide=&count_private=true&bg_color=0D1117&theme=codeSTACKr&hide_border=true&show_icons=true"/></a>
