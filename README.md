@@ -6,16 +6,18 @@ Don't speak Portuguese? Access the English version [here](https://github.com/ibr
 <!--
 Dashboard de status do Github
 -->
+
+<div align="center">
 <h1 align="center">⚙Git Stats</h1>
 
  <div align="center">
-  <a href="https://github.com/ibrunosilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrunosilva&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrunosilva&layout=compact&langs_count=16&theme=codeSTACKr"/>
-</div>
-
+    <a href="https://github.com/ibrunosilva"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=ibrunosilva&hide=&count_private=true&bg_color=0D1117&theme=codeSTACKr&hide_border=true&show_icons=true"/></a>
+    <a href="https://github.com/ibrunosilva"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrunosilva&langs_count=10&count_private=true&layout=compact&theme=codeSTACKr&hide_border=true&bg_color=0D1117"/></a>
+    <a href="https://github.com/ibrunosilva"><img src="https://github-profile-trophy.vercel.app/?username=ibrunosilva&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true"</a>
+ </div>
+ 
 <!--
-Tópico com o que estou estudando atualmente
+O que estou estudando atualmente
 -->
    <h1 align="center">Estudando</h1>
 <div style="display: inline_block": align=center><br>
