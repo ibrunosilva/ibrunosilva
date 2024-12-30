@@ -14,7 +14,7 @@ Dashboard de status do Github
 
  <div align="center">
     <a href="https://github.com/ibrunosilva"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=ibrunosilva&hide=&count_private=true&bg_color=0D1117&theme=codeSTACKr&hide_border=true&show_icons=true"/></a>
-    <a href="https://github.com/ibrunosilva"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrunosilva&langs_count=10&count_private=true&layout=compact&theme=codeSTACKr&hide_border=true&bg_color=0D1117"/></a>
+     <a href="https://github.com/ibrunosilva"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrunosilva&langs_count=10&count_private=false&layout=compact&theme=codeSTACKr&hide_border=true&bg_color=0D1117"/></a>
     <a href="https://github.com/ibrunosilva"><img src="https://github-profile-trophy.vercel.app/?username=ibrunosilva&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true"</a>
  </div>
  
@@ -30,7 +30,7 @@ O que estou estudando atualmente
 </div>
 
 <!--
-Minhas Redes Sociais
+Redes Sociais
 -->
  <h1 align="center">Redes Sociais e Contato</h1>
 <div align="center">
